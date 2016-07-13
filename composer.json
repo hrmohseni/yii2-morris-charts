@@ -14,6 +14,7 @@
     "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
+        "hrmohseni/yii2-raphaeljs": "*",
         "bower-asset/morrisjs": "*"
     },
      "autoload": {
