@@ -1,0 +1,22 @@
+{
+    "name": "hrmohseni/yii2-morrisjs-widget",
+    "description": "Morris.js charts widget for Yii2.",
+    "keywords": ["yii2", "extension", "widget", "chart", "morris.js"],
+    "homepage": "https://github.com/hrmohseni/yii2-morrisjs-widget",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Mohseni",
+            "email": "hrmohseni@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/morrisjs": "*"
+    },
+     "autoload": {
+        "psr-4": { "hrmohseni\\yii2-morrisjs\\": "" }
+    }
+}
