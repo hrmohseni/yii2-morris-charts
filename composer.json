@@ -1,8 +1,8 @@
 {
-    "name": "hrmohseni/yii2-morrisjs-widget",
+    "name": "hrmohseni/yii2-morrisjs-charts",
     "description": "Morris.js charts widget for Yii2.",
     "keywords": ["yii2", "extension", "widget", "chart", "morris.js"],
-    "homepage": "https://github.com/hrmohseni/yii2-morrisjs-widget",
+    "homepage": "https://github.com/hrmohseni/yii2-morrisjs-charts",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
