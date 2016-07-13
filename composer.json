@@ -17,6 +17,8 @@
         "bower-asset/morrisjs": "*"
     },
      "autoload": {
-        "psr-4": { "hrmohseni\\yii2-morrisjs\\": "" }
+        "psr-4": {
+            "rafk\\morrisjs\\": ""
+        }
     }
 }

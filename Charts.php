@@ -1,10 +1,10 @@
 <?php
 /**
- * @link https://github.com/juratitov/yii2-morrisjs-widget
+ * @link https://github.com/hrmohseni/yii2-morrisjs-charts
  * @copyright Copyright (c) 2015 Jura
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
-namespace hrmohseni\yii2-morris-charts;
+namespace \rafk\morrisjs;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
