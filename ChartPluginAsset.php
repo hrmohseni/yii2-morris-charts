@@ -4,7 +4,7 @@
  * @copyright Copyright (c) 2015
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
-namespace \rafk\morrisjs;
+namespace rafk\morrisjs;
 
 use yii\web\AssetBundle;
 /**
@@ -12,10 +12,10 @@ use yii\web\AssetBundle;
  *  */
 class ChartPluginAsset extends AssetBundle
 {
-    public $sourcePath = '@bower-assets/morrisjs';
+    public $sourcePath = '@bower/morrisjs';
     public $depends = [
         'yii\web\YiiAsset',
-        'rafk\raphaeljs\RaphaelAssets'
+        'rafk\raphaeljs\RaphaelAsset'
     ];
     
     public function init()
